@@ -9,5 +9,7 @@ Y. Bengio. arXiv 2013.
 
 See fer2013.bib for a bibtex entry.
 
-
-Unzip './datasets.zip' to './datasets'
+1. Download 'fer2013.csv' from the following link and put it in the current folder.
+   https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+2. Run 'conver_fer2013.py' and then 'convert_csv2grey.py' to extract grey image sets for training, testing and evaluation.
+3. After that, run 'face_train_use_keras.py'
