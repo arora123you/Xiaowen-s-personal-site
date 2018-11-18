@@ -1,6 +1,8 @@
 # Notice
 This folder contains the orginal code we referred to ('emotions.py') and the modified version ('FaceAndEmotionDetection_v2.py') that we used for the contest. The following contents were copied from the original readme file.
 
+# -----------------------------------------------------------------------------------------------------
+
 # Emotion
 This software recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.
 
