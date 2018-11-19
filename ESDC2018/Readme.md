@@ -1,5 +1,5 @@
 # ID-Aware Facial Expression Detection and Analysis System
-This is a group project done by me as well as other two schoolmate. It won the third prize in the ESDC 2018 worldwild. It combined several already published algorithms so the design can detect and record people's emotion after recogizing their facial expression while at the same time tell different people apart. It is not meant to be a research project.
+This is a group project done by me as well as other two schoolmate. It won the third prize in the ESDC 2018 worldwild. It combined several already published algorithms so the design can detect and record people's emotion after recogizing their facial expression while at the same time tell different people apart. It is not a research project.
 <br/><br/>
 For more details, please refer to the following reports:<br/>
 [Identity-Aware Automatic Emotion Detection and Analysis System.pdf](https://github.com/arora123you/Xiaowen-s-personal-site/blob/master/ESDC2018/Identity-Aware%20Automatic%20Emotion%20Detection%20and%20Analysis%20System.pdf)<br/>
