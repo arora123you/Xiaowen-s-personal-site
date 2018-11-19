@@ -1,7 +1,7 @@
 # ID-Aware Facial Expression Detection and Analysis System
 This is a group project done by me as well as other two schoolmate. It won the third prize in the ESDC 2018 worldwild. It combined several already published algorithms so the design can detect and record people's emotion after recogizing their facial expression while at the same time tell different people apart. It is not a research project.
 <br/><br/>
-The design is based on Intel-Up2 board and a video camera, but you can also run it on your computer. It worked well on Linux and Mac. We have not tested it on windows. To run the codes, you need to install python2, pytorch, pip, OpenCV2. You also need to download a package named [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) from github. 
+The design is based on Intel-Up2 board and a video camera, but you can also run it on your computer. It worked well on Linux and Mac. We have not tested it on windows. To run the codes, you need to install python2, pytorch, pip, OpenCV2, tensorflow, keras etc.. You also need to download a package named [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) from github. 
 <br/><br/>
 For more details, please refer to the following reports:<br/>
 [Identity-Aware Automatic Emotion Detection and Analysis System.pdf](https://github.com/arora123you/Xiaowen-s-personal-site/blob/master/ESDC2018/Identity-Aware%20Automatic%20Emotion%20Detection%20and%20Analysis%20System.pdf)<br/>
