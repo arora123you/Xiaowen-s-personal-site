@@ -3,6 +3,7 @@ This folder contains the orginal code we referred to ('emotions.py') and the mod
 
 In './models/' folder, 'emotion_model.hdf5' were for the original code while 'new_emotion_train_v1.h5' were copied and renamed from the training folder.
 
+If you want to analyze some video clip, put it into './demo' folder and name it as 'test.mp4'. You can also use a camera to get real time response.
 # Emotion
 This software recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.
 
