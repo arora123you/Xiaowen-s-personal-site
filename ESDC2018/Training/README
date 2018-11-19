@@ -1,3 +1,10 @@
+Instructions:
+1. Download 'fer2013.csv' from the following link and put it in the current folder.
+   https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+2. Run 'conver_fer2013.py' and then 'convert_csv2grey.py' to extract grey image sets for training, testing and evaluation.
+3. After that, run 'face_train_use_keras.py'
+
+------------------------------------------------------------------
 If you use this dataset in your research work, please cite
 
 "Challenges in Representation Learning: A report on three machine learning
@@ -8,8 +15,3 @@ M Popescu, C Grozea, J Bergstra, J Xie, L Romaszko, B Xu, Z Chuang, and
 Y. Bengio. arXiv 2013.
 
 See fer2013.bib for a bibtex entry.
-
-1. Download 'fer2013.csv' from the following link and put it in the current folder.
-   https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
-2. Run 'conver_fer2013.py' and then 'convert_csv2grey.py' to extract grey image sets for training, testing and evaluation.
-3. After that, run 'face_train_use_keras.py'
