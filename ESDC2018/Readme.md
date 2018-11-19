@@ -5,7 +5,7 @@ For more details, please refer to the following reports:<br/>
 [Identity-Aware Automatic Emotion Detection and Analysis System.pdf](https://github.com/arora123you/Xiaowen-s-personal-site/blob/master/ESDC2018/Identity-Aware%20Automatic%20Emotion%20Detection%20and%20Analysis%20System.pdf)<br/>
 [多对象情绪自动识别分析系统.pdf](https://github.com/arora123you/Xiaowen-s-personal-site/blob/master/ESDC2018/%E5%A4%9A%E5%AF%B9%E8%B1%A1%E6%83%85%E7%BB%AA%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F.pdf)
 <br/><br/>
-Copyrite Xingchen Wang, Xiaowen You, Jiakai Zhang, 2018.
+Copyrite Xinchen Wang, Xiaowen You, Jiakai Zhang, Chuang Liu, 2018.
 # Demo
 ![Demo](https://github.com/arora123you/Xiaowen-s-personal-site/blob/master/ESDC2018/Demo1.gif)
 ![Demo](https://github.com/arora123you/Xiaowen-s-personal-site/blob/master/ESDC2018/RealTimeDemo.gif)
